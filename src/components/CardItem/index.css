@@ -1,0 +1,41 @@
+.card-1 {
+  border-top: 5px solid #ff4f64;
+}
+
+.card-2 {
+  border-top: 5px solid #00a8e7;
+}
+
+.card-3 {
+  border-top: 5px solid #44c4a1;
+}
+
+.card-4 {
+  border-top: 5px solid #fcc200;
+}
+
+.cardItem_details_container {
+  display: flex;
+  flex-direction: column;
+  height: 500px;
+  width: 500px;
+  padding: 20px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+}
+.position_name_title {
+  color: black;
+  font-family: 'roboto';
+  font-weight: bold;
+}
+.description_regards_title {
+  color: #64748b;
+  font-family: 'roboto';
+}
+.profile_images {
+  align-self: flex-end;
+}
+.image_container {
+  height: 50px;
+  width: 50px;
+}
